@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-During the flight, the hexacopter must change, in full autonomy, its
+Workshop 2 : Follow the arrow
+During the flight, the hexacopter must change in full autonomy, its
 flightpath by following the direction indicated by a red arrow
 drawn on the ground, then land on a dedicated landing area (black square)
 
