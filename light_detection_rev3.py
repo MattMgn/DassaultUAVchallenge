@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Detection on flash light on ground from hexacopter
+
+written by Matthieu Magnon
+2016-2017
+Dassault UAV Challenge
+"""
+
+
 #import libs
 import cv2
 import numpy as np
